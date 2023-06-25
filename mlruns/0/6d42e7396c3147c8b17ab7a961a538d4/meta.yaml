@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Handson%20Python/Mlops%20work/mlopshandson/mlruns/0/6d42e7396c3147c8b17ab7a961a538d4/artifacts
+end_time: 1687678709609
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6d42e7396c3147c8b17ab7a961a538d4
+run_name: exultant-gull-842
+run_uuid: 6d42e7396c3147c8b17ab7a961a538d4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687678704709
+status: 3
+tags: []
+user_id: arunn

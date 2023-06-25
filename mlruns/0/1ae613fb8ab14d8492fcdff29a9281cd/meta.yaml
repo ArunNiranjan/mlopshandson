@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Handson%20Python/Mlops%20work/mlopshandson/mlruns/0/1ae613fb8ab14d8492fcdff29a9281cd/artifacts
+end_time: 1687678634341
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1ae613fb8ab14d8492fcdff29a9281cd
+run_name: adaptable-seal-8
+run_uuid: 1ae613fb8ab14d8492fcdff29a9281cd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687678628953
+status: 3
+tags: []
+user_id: arunn

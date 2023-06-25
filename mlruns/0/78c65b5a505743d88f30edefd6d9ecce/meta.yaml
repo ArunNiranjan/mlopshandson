@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Handson%20Python/Mlops%20work/mlopshandson/mlruns/0/78c65b5a505743d88f30edefd6d9ecce/artifacts
+end_time: 1687678728302
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 78c65b5a505743d88f30edefd6d9ecce
+run_name: bald-ox-298
+run_uuid: 78c65b5a505743d88f30edefd6d9ecce
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687678723503
+status: 3
+tags: []
+user_id: arunn
